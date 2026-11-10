@@ -169,14 +169,15 @@ public class assessment {
         }
 
     }
+     public static void tester(){
+         System.out.println("This is my first commit using Git! ");
+     }
 
     public static void main(String[] args) {
-        menu();
+//        menu();
 
 
-//        array();
-//        createUsername();
-//        doubleArray();
+//        tester(); if we uncomment this it will show the function I created to do my first commit
 
     }
 }
